@@ -1,4 +1,4 @@
-## Clover
+## Clover Vision
 
 Clover is an open-source project created to easily use GAN (Generative Adverisal Network) models for image processing, computer vision, and image generation tasks. 
 
